@@ -10,6 +10,7 @@ public class Hello {
 //        System.out.println(divideLBYL(x, y));
 //        System.out.println(divideEAFP(x, y));
 //        System.out.println(divide(x, y));
+        
         int x = getIntEAFP();
         System.out.println("x is " + x);
     }
